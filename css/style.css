@@ -58,6 +58,18 @@ body{
 	text-align: center;
 }
 
+footer{
+	font-family: 'Roboto', sans-serif;
+	color: #000;
+	background-color: #ffff33;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	text-align: center;
+	
+}
 
 /*MEDIA QUERIES*/
 @media screen and(max-width:760px){
