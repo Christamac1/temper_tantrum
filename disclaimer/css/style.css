@@ -58,6 +58,11 @@ body{
 	text-align: center;
 }
 
+a {
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+}
+
 footer{
 	font-family: 'Roboto', sans-serif;
 	color: #000;
